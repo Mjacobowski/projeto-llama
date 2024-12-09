@@ -1,0 +1,9 @@
+# Ignorar a pasta onde o modelo é salvo
+modelo-treinado/
+
+# Ignorar logs de treinamento
+logs/
+
+# Ignorar arquivos temporários
+*.log
+*.jsonl
